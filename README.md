@@ -1,7 +1,7 @@
 
 
 
-# REST_API-Public
+# REST_API-Public, Created With Only Python
 
 Example of Using Tableau Server Python REST_API. The User can delete any extracts that are associated with the Tableau Server Project.
 
